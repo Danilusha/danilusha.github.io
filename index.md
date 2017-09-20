@@ -18,7 +18,7 @@ Currently attending the  documentary photography course at Royal Academy of Arts
 
 <h2 style="margin-top: 50px;">Education</h2>
 
-- #### **Royal Academy of Art, The Hague**
+- ### **Royal Academy of Art, The Hague**
 Bachelor Photography (BA), The Hague (Aug 2015 – present)
 
 - ### **Academy of Economic Studies of Moldova**
