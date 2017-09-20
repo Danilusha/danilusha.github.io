@@ -17,6 +17,7 @@ Currently attending the  documentary photography course at Royal Academy of Arts
 - 2010 - *Nivel Zer0 group exhibition, Writers Union, Chisinau, Republic of Moldova*
 
 <h2 style="margin-top: 50px;">Education</h2>
+
 - #### **Royal Academy of Art, The Hague**
 Bachelor Photography (BA), The Hague (Aug 2015 – present)
 
