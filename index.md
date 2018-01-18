@@ -11,7 +11,7 @@ Currently attending the  documentary photography course at Royal Academy of Arts
 
 <h2 style="margin-top: 50px;">Exhibitions</h2>
 
-**UPCOMMING January 2018 - NOUN presents GOOD WORK group exhibition, The Grey Space in The Middle, The Hague, Netherlands*
+*UPCOMMING January 2018 - NOUN presents GOOD WORK group exhibition, The Grey Space in The Middle, The Hague, Netherlands*
 - 2017 - *The Future of Learning group exhibition, Royal Academy of Arts The Hague, Netherlands* 
 - 2017 - *‘Let me tell you about…’, UNSEEN art fair group exhibition, Amsterdam, Netherlands*
 - 2017 - *NOUN presents Appendix group exhibition, Royal Academy of Arts The Hague, Netherlands*
