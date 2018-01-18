@@ -6,7 +6,7 @@
 #
 layout: home
 ---
-## Daniela
+## About
 Currently attending the  documentary photography course at Royal Academy of Arts in The Hague. As a visual artist from Moldova with a background in advertising, international economics and social work, she tends to confront herself with futuristic and political topics. Her personal drive helps her focus on the visualisation of alternative possibilities for mankind - the impact of new technologies and approaches towards life, she's aiming to highlight their societal influence in her work.
 
 <h2 style="margin-top: 50px;">Exhibitions</h2>
