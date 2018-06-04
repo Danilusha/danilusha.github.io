@@ -23,7 +23,7 @@ Daniela is currently attending the  documentary photography course at the Royal 
 <h2 style="margin-top: 50px;">Education</h2>
 
 - ### **Pathshala South Asian Media Institute, Dhaka, Bangladesh**
-Exchange Semester, Graduation Photography (BA), Dhaka (Feb - June 2018)
+Exchange Semester, Graduation Photography (BA), Dhaka (Feb - Jun 2018)
 
 - ### **Royal Academy of Art, The Hague**
 Bachelor Photography (BA), The Hague (Aug 2015 – present)
