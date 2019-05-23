@@ -7,11 +7,16 @@
 layout: home
 ---
 ## About
-Daniela is currently attending the  documentary photography course at the Royal Academy of Arts in The Hague. As a visual artist from Moldova with a background in advertising, international economics and social work, she tends to confront herself with futuristic and political topics. Her personal drive helps her to focus on the visualisation of alternative possibilities for mankind - the impact of new technologies and approaches towards life, she's aiming to highlight their societal influence in her work.
+Moldavian born living in Amsterdam. Currently graduating in Documentary Photography at the Royal Academy of Arts in The Hague. As a visual artist with a background in international economics and social work, I tend to confront myself with futuristic and political topics. My artistic practice revolves around the technology topic and the question of how does it influence our life. It includes personal visualizations of alternative possibilities and speculative ideas of new technologies within our future by using photography and moving images.
+
+After my recent experience as a researcher at the Prince Claus Fund in Amsterdam, I’m now looking for ways to have an active role in promoting arts and culture in less privileged regions of the world. Through practical research, I am involved in curating and managing events that support contemporary photography. My personal goal is to use my knowledge and experience and establish an Art Organisation that helps grow the photography community in less developed regions and societies, such as Republic of Moldova, the country I immigrated from.
 
 <h2 style="margin-top: 50px;">Exhibitions</h2>
 
-*UPCOMMING June 2018 - UNDA: The future of learning, NEMO Science Museum, Amsterdam, Netherlands*
+*UPCOMMING May 2019 - ‘Push it to the Limit’ group exhibition, Melkweg Expo, Amsterdam, the Netherlands*
+- 2018 - *‘70 years of Human Rights’ group exhibition, The Nutshuis, The Hague, Netherlands*
+- 2018 - *co-curator workshop ISSP “Infinite Sauvage” Kuldīga Art House, Kuldīga, Latvia*
+- 2018 - *‘UNDA’,  Toekomstfestival OCW , Nemo Science Museum, Amsterdam, Netherlands* 
 - 2018 - *NOUN presents GOOD WORK group exhibition, The Grey Space in The Middle, The Hague, Netherlands*
 - 2017 - *The Future of Learning group exhibition, Royal Academy of Arts The Hague, Netherlands* 
 - 2017 - *‘Let me tell you about…’, UNSEEN art fair group exhibition, Amsterdam, Netherlands*
@@ -22,7 +27,10 @@ Daniela is currently attending the  documentary photography course at the Royal 
 
 <h2 style="margin-top: 50px;">Education</h2>
 
-- ### **Pathshala South Asian Media Institute, Dhaka, Bangladesh**
+- ### **International Summer School of Photography 2018**
+Summer School scolarship, Kuldīga, Latvia (August 2018)
+
+- ### **Pathshala South Asian Media Institute**
 Exchange Semester, Graduation Photography (BA), Dhaka (Feb - Jun 2018)
 
 - ### **Royal Academy of Art, The Hague**
