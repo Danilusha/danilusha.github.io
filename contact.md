@@ -9,6 +9,6 @@ permalink: /contact/
 <h3 style="margin-top: 50px; font-weight:bold;">Daniela Rosca</h3>
 <a href="mailto:daniela.roshca@gmail.com">daniela.roshca@gmail.com</a>
 
-+31 617 28 76 11
++31 6 51 34 66 85
 
-The Hague, Netherlands
+Amsterdam, Netherlands
