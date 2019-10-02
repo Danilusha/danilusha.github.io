@@ -7,13 +7,14 @@
 layout: home
 ---
 ## About
-Moldavian born living in Amsterdam. Currently graduating in Documentary Photography at the Royal Academy of Arts in The Hague. As a visual artist with a background in international economics and social work, I tend to confront myself with futuristic and political topics. My artistic practice revolves around the technology topic and the question of how does it influence our life. It includes personal visualizations of alternative possibilities and speculative ideas of new technologies within our future by using photography and moving images.
-
-After my recent experience as a researcher at the Prince Claus Fund in Amsterdam, I’m now looking for ways to have an active role in promoting arts and culture in less privileged regions of the world. Through practical research, I am involved in curating and managing events that support contemporary photography. My personal goal is to use my knowledge and experience and establish an Art Organisation that helps grow the photography community in less developed regions and societies, such as Republic of Moldova, the country I immigrated from.
+Moldavian born, living in Amsterdam, visual artist with a background in international economics and social work. In my 
+practice, I tend to confront myself with political and future-related topics. I’m genuinely interested to work in the 
+administrative office of a cultural organisation in order to support arts & culture. 
 
 <h2 style="margin-top: 50px;">Exhibitions</h2>
 
-*UPCOMMING May 2019 - ‘Push it to the Limit’ group exhibition, Melkweg Expo, Amsterdam, the Netherlands*
+- 2019 - *'Royal Academy of Arts The Hague Graduation Festival’, The Hague, Netherlands*
+- 2019 - *'Push it to the Limit’ group exhibition & fair, Melkweg, Amsterdam, Netherlands* 
 - 2018 - *‘70 years of Human Rights’ group exhibition, The Nutshuis, The Hague, Netherlands*
 - 2018 - *co-curator workshop ISSP “Infinite Sauvage” Kuldīga Art House, Kuldīga, Latvia*
 - 2018 - *‘UNDA’,  Toekomstfestival OCW , Nemo Science Museum, Amsterdam, Netherlands* 
@@ -34,7 +35,7 @@ Summer School scolarship, Kuldīga, Latvia (August 2018)
 Exchange Semester, Graduation Photography (BA), Dhaka (Feb - Jun 2018)
 
 - ### **Royal Academy of Art, The Hague**
-Bachelor Photography (BA), The Hague (Aug 2015 – present)
+Bachelor Photography (BA), The Hague (Aug 2015 – Jul 2019)
 
 - ### **Academy of Economic Studies of Moldova**
 International Economic Relations (BA), Chisinau (Sep 2010 – Jun 2013)
