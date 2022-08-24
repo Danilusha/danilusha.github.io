@@ -7,7 +7,7 @@
 layout: home
 ---
 ## Hi there!
-I am Moldavian born, living in Amsterdam, visual artist with a background in international economics and social work. In my artistic practice, I tend to confront myself with topics related to my homecountry. As a professional I’m genuinely enjoying working in the educational field or administrative office of a cultural organization. This helps me to align with my core value of supporting and contributing to the arts & culture in the society.
+I am Moldavian born, living in Amsterdam, visual artist with a background in international economics and social work. In my artistic practice, I tend to confront myself with topics related to my home country. As a professional I’m genuinely enjoying working in the educational field or administrative office of a cultural organization. This helps me to align with my core value of supporting and contributing to the arts & culture in the society.
 
 <h2 style="margin-top: 50px;">Some Exhibitions I took part in</h2>
 
