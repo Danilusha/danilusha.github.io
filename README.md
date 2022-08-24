@@ -1,2 +1,2 @@
 # danilusha.github.io
-just my personal site
+at one point this will be created as my personal website
